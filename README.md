@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Cześć, jestem Daniel
 
-<!--
-**Juras9056/Juras9056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student informatyki (mgr) · Sieciowiec · Frontend dev · AI enthusiast**  
+Buduję projekty na styku sieci, AI i automatyzacji.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 O mnie
+
+- 🎯 Magisterka z informatyki – kalkulator balistyczny do obliczeń moździerzowych
+- 🌐 Doświadczenie w administracji sieciami (Cisco, Active Directory)
+- 🤖 Pasjonat AI – buduję narzędzia z Claude Code i Gemini CLI
+- ⚽ Sport i militaria w wolnym czasie
+
+---
+
+## 🛠️ Technologie
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projekty
+
+### ⚡ TechNews – AI News Aggregator
+> Automatyczny agregator technologicznych newsów po polsku
+
+- Scraper zbiera artykuły z HackerNews, TechCrunch, The Verge
+- Groq API (Llama) tłumaczy i opisuje artykuły po polsku
+- Docker + FastAPI + SQLite + vanilla JS frontend
+- Cron job odpala scraping co 6 godzin automatycznie
+
+### 🎯 Kalkulator balistyczny *(praca magisterska)*
+> Aplikacja do obliczeń moździerzowych
+
+- Obliczenia trajektorii i parametrów balistycznych
+- Praca magisterska na kierunku informatyka
+
+---
+
+## 📫 Kontakt
+
+[![GitHub](https://img.shields.io/badge/GitHub-Juras9056-181717?style=flat&logo=github)](https://github.com/Juras9056)
